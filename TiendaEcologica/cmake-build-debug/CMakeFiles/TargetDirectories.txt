@@ -1,0 +1,3 @@
+C:/GIT/POO/TiendaEcologica/cmake-build-debug/CMakeFiles/TiendaEcologica.dir
+C:/GIT/POO/TiendaEcologica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GIT/POO/TiendaEcologica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
