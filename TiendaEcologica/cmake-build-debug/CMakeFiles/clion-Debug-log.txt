@@ -1,0 +1,4 @@
+"C:\Users\PC\CLion 2024.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/PC/CLion 2024.3.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\GIT\Proyecto2\7-practica-cohort2-maria\7-practica-cohort2-maria\TiendaEcologica -B C:\GIT\Proyecto2\7-practica-cohort2-maria\7-practica-cohort2-maria\TiendaEcologica\cmake-build-debug
+-- Configuring done (0.6s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/GIT/Proyecto2/7-practica-cohort2-maria/7-practica-cohort2-maria/TiendaEcologica/cmake-build-debug
